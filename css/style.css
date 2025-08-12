@@ -10,7 +10,7 @@
 body{
     background-color: var(--cor--fundo--primeira);
     color: var(--branco-principal);
-    font-family: var(--fonte-principal)
+    font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
 }
@@ -149,4 +149,5 @@ body{
 .container__botao:hover{
     background-color: var(--botao-azul-afeito);
     color: var(--cor--fundo--primeira);
+
 }
